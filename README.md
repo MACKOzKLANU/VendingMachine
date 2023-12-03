@@ -40,7 +40,7 @@ The main function demonstrates the usage of the classes:
 5. The user buys a product from the vending machine.
 6. Displays the updated list of products in the vending machine and the remaining money of the user.
 
-<img src="screenshots/screenshot.png">
+<img src="screenshots/screenshot.PNG">
 Note: Ensure that you have a C++ compiler installed on your system.
 
 Feel free to extend and modify the code to suit your needs!
