@@ -41,6 +41,7 @@ The main function demonstrates the usage of the classes:
 6. Displays the updated list of products in the vending machine and the remaining money of the user.
 
 <img src="screenshots/screenshot.PNG">
+<img src="screenshots/diagram.drawio.png">
 Note: Ensure that you have a C++ compiler installed on your system.
 
 Feel free to extend and modify the code to suit your needs!
