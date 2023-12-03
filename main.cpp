@@ -115,9 +115,9 @@ public:
 };
 
 int main() {
-
+    //testing functions manually
+    
     VendingMachine vendingMachine;
-
 
     Product* product1 = new Product("Soda", 2, 10);
     Product* product2 = new Product("Chips", 1, 15);
@@ -146,9 +146,6 @@ int main() {
     
     vendingMachine.RemoveProduct(4);
     
-    
-
-
     delete product1;
     delete product2;
 
